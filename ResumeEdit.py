@@ -16,7 +16,7 @@ from docx.shared import Pt, Inches
 
 # 1. Setup Gemini (Use your verified API Key)
 
-client = Client(api_key="AIzaSyDByXJ5YaDnBCR9ogqYWN6T-bOtPJhFtxw")
+client = Client(api_key="")
 
 
 
